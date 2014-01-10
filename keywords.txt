@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For LiFuelGauge #
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)                #
+#######################################
+
+LiFuelGauge	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)    #
+#######################################
+
+getVoltage	KEYWORD2
+getSOC	KEYWORD2
+getVersion	KEYWORD2
+getCompensation	KEYWORD2
+getAlertThreshold	KEYWORD2
+setCompensation	KEYWORD2
+setAlertThreshold	KEYWORD2
+clearAlertInterrupt	KEYWORD2
+sleep	KEYWORD2
+wake	KEYWORD2
+sleeping	KEYWORD2
+quickStart	KEYWORD2
+reset	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)                #
+#######################################
+
+MAX17043	LITERAL1
+MAX17044	LITERAL1
