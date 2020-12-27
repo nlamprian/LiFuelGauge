@@ -3,7 +3,7 @@ LiFuelGauge
 
 This is an Arduino library for interfacing the MAXIM `MAX17043/MAX17044` Li+ fuel gauges. These ICs communicate with an I2C bus at speeds up to 400kHz, and the `LiFuelGauge` library uses the [`Wire`](http://arduino.cc/en/reference/wire) library.
 
-![project](http://i859.photobucket.com/albums/ab154/lampnick67/fuelgauge_project_zpsfe9f4efe.png)
+![project](https://raw.githubusercontent.com/wiki/nlamprian/LiFuelGauge/assets/fuelgauge.png)
 
 Interface
 ---------
@@ -27,8 +27,6 @@ boolean sleeping();  // Returns whether or not the IC is in sleep mode
 uint8_t quickStart();  // Forces the IC to restart fuel-gauge calculations
 uint8_t reset();  // Forces the IC to completely reset
 ```
-
-
 
 Examples
 --------

@@ -1,12 +1,12 @@
 /**
  * Name: LiFuelGauge
- * Author: Nick Lamprianidis { paign10.ln@gmail.com }
+ * Author: Nick Lamprianidis <nlamprian@gmail.com>
  * Version: 1.0
  * Description: A library for interfacing the MAXIM MAX17043/MAX17044
  * 				Li+ fuel gauges. These ICs report the relative state of charge
  * 				of the connected Lithium Ion Polymer battery, and the library 
  * 				can help you configure them and communicate with them
- * Source: https://github.com/pAIgn10/LiFuelGauge
+ * Source: https://github.com/nlamprian/LiFuelGauge
  * License: Copyright (c) 2014 Nick Lamprianidis 
  *          This library is licensed under the MIT license
  *          http://www.opensource.org/licenses/mit-license.php
